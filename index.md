@@ -1,7 +1,7 @@
 ## 欢迎来到我的网页
 
 作者名称：wx1336445404
-[b1e16a043c07153bcbd5db403bf2616](https://user-images.githubusercontent.com/57116953/181668662-5e4a0381-e4cb-4eab-973b-69322ddc5f59.jpg)
+<!-- [b1e16a043c07153bcbd5db403bf2616](https://user-images.githubusercontent.com/57116953/181668662-5e4a0381-e4cb-4eab-973b-69322ddc5f59.jpg) -->
 
 <!-- You can use the [editor on GitHub](https://github.com/yuce-fu/fyc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
