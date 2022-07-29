@@ -1,13 +1,12 @@
 ## 欢迎来到我的网页
 
 作者名称：wx1336445404
-<!-- [b1e16a043c07153bcbd5db403bf2616](https://user-images.githubusercontent.com/57116953/181668662-5e4a0381-e4cb-4eab-973b-69322ddc5f59.jpg) -->
 
-<!-- You can use the [editor on GitHub](https://github.com/yuce-fu/fyc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+<!-- You can use the [editor on GitHub](https://github.com/yuce-fu/fyc/edit/master/index.md) to maintain and preview the content for your website in Markdown files. -->
+You can use the [editor on GitHub](https://user-images.githubusercontent.com/57116953/181670196-b52dfe20-3d60-4c07-9df7-d8cf0b0aca7b.jp) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
- -->
-<!-- ### Markdown
+
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -37,4 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
