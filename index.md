@@ -2,8 +2,8 @@
 
 作者名称：wx1336445404
 
-<!-- You can use the [editor on GitHub](https://github.com/yuce-fu/fyc/edit/master/index.md) to maintain and preview the content for your website in Markdown files. -->
-You can use the [editor on GitHub](https://user-images.githubusercontent.com/57116953/181670196-b52dfe20-3d60-4c07-9df7-d8cf0b0aca7b.jp) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/yuce-fu/fyc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
