@@ -38,6 +38,3 @@ _网站主题和布局_ 都存在了这里 [网站主题](https://github.com/yuc
 - Bulleted
 - List
 
-1. Numbered
-2. List
-
