@@ -18,6 +18,15 @@ print('Hello' + ', ' + 'World!')
 
 ```
 
+### 很有用的网站
+
+1. [插入的小图标](https://icons8.com/icons/material)
+2. [QT网络编程-QTcpServer](https://zhuanlan.zhihu.com/p/35383811)
+3. [在PyQt5中美化和装扮图形界面](https://zmister.com/archives/477.html)
+4. [PyQt5基本控件详解之QPushButton](https://blog.csdn.net/jia666666/article/details/81513443)
+
+
+
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 <!-- ### Markdown
