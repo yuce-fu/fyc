@@ -25,7 +25,9 @@ print('Hello' + ', ' + 'World!')
 3. [在PyQt5中美化和装扮图形界面](https://zmister.com/archives/477.html)
 4. [PyQt5基本控件详解之QPushButton](https://blog.csdn.net/jia666666/article/details/81513443)
 
+### 网站构建
 
+_网站主题和布局_ 都存在了这里 [网站主题](https://github.com/yuce-fu/fyc/settings/pages).  **网站标签**存在了这里[`_config.yml`](https://github.com/yuce-fu/fyc/blob/master/_config.yml)
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
