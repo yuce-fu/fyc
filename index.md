@@ -1,6 +1,4 @@
-## 欢迎来到我的网页
-
-作者名称：wx1336445404
+## www
 
 You can use the [editor on GitHub](https://github.com/yuce-fu/fyc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
